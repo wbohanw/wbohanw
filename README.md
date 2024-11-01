@@ -1,5 +1,9 @@
 # Hello, I'm Bohan Wang 👋
 
+
+https://github.com/user-attachments/assets/88a35ac6-47b5-428c-9bfd-d0a1e0dcc45e
+
+
 I build elegant and professional software solutions ranging from full-stack applications to AI-driven projects and infrastructure. 
 🚀 I have a passion for creating accessible and user-centric applications while continuously learning and contributing to the tech community.
 
