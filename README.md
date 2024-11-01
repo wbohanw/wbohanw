@@ -7,7 +7,7 @@ I build elegant and professional software solutions ranging from full-stack appl
 - 💼 **Experience**: Software Engineering at Data-Curve, Northking Information, and TaiHe Technology.
 - 🎓 **Education**: Bachelor of Engineering in Computer Engineering at McGill University.
 - 🌱 **Currently learning**: Advanced Machine Learning, Computer Vision and expanding my knowledge in cloud infrastructure.
-- 📚 **Reading**: Publications on natural skin systems and performance improvements in computer vision models.
+- 📚 **Publications**: Publications on natural skin systems and performance improvements in computer vision models.
 - 💻 **Background**: comprehensive software development experience with a strong focus on AI models, data science, and backend engineering.
 - 🏆 **Honors**: Best Game Development at McHacks 2024, 1st place at RoboHack Mcgill 2023, and 2nd place at the 123LoadBoard Coding Challenge 2023.
 - 📝 **Projects**: 
