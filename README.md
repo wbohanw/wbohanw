@@ -1,8 +1,6 @@
 # Hello, I'm Bohan Wang 👋
 
-
-https://github.com/user-attachments/assets/88a35ac6-47b5-428c-9bfd-d0a1e0dcc45e
-
+![BohanDoraemon](https://github.com/user-attachments/assets/0edcb68d-90f2-44ca-9dd5-b4a69cc1d04a)
 
 I build elegant and professional software solutions ranging from full-stack applications to AI-driven projects and infrastructure. 
 🚀 I have a passion for creating accessible and user-centric applications while continuously learning and contributing to the tech community.
