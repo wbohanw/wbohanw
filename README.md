@@ -22,5 +22,5 @@ Let's make this world better!
 
 📫 **Contact**:
 - Email: [bohan.wang@mail.mcgill.ca](mailto:bohan.wang@mail.mcgill.ca)
-- Portfolio: [cs.mcgill.ca/~bwang246](https://cs.mcgill.ca/~bwang246)
+- Portfolio: [bohan.wang](https://bohan-wang.vercel.app/)
 - Instagram: [wohan_bang](https://www.instagram.com/wohan_bang)
