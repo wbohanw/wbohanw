@@ -11,7 +11,7 @@ I build elegant and professional software solutions ranging from full-stack appl
 - 🌱 **Currently learning**: Advanced Machine Learning, Computer Vision and expanding my knowledge in cloud infrastructure.
 - 📚 **Publications**: Publications on natural skin systems and performance improvements in computer vision models.
 - 💻 **Background**: comprehensive software development experience with a strong focus on AI models, data science, and backend engineering.
-- 🏆 **Honors**: 3rd place at Shanxi AI challenge Cup 2025, 1st Place at QUEBEC Engineering Competition 2025, 1st Place at McGill Engineering Competition 2024, Best Game Development at McHacks 2024, 1st place at RoboHack Mcgill 2023, and 2nd place at the 123LoadBoard Coding Challenge 2023.
+- 🏆 **Honors**: 1st place at Databricks Montreal AI agent hackathon. 3rd place at Shanxi AI challenge Cup 2025, 1st Place at QUEBEC Engineering Competition 2025, 1st Place at McGill Engineering Competition 2024, Best Game Development at McHacks 2024, 1st place at RoboHack Mcgill 2023, and 2nd place at the 123LoadBoard Coding Challenge 2023.
 - 📝 **Projects**: 
   - **CyberSight**: A grocery navigation tool for visually impaired users, integrating AI models with speech interfaces and real-time vision processing.
   - **Boxing Game**: A Unity-based game with real-time 3D motion detection using Mediapipe and Python APIs.
