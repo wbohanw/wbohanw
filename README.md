@@ -1,4 +1,4 @@
-# Hello, I'm Bohan Wang 👋
+## Hello, I'm Bohan Wang 👋
 <pre>
       ___             ___              ___            ___            ___
      /\  \           /\  \            /\__\          /\  \          /\__\
@@ -15,25 +15,37 @@
      \/__/           \/__/          \/__/          \/__/            \/__/
 </pre>
 
-I build elegant and professional software solutions ranging from full-stack applications to AI-driven projects and infrastructure.
-🚀 I have a passion for creating accessible and user-centric applications while continuously learning and contributing to the tech community.
+---
 
-- 🧐 **Interested in**: Full Stack Development, Machine Learning, and Computer Vision.
-- 💼 **Experience**: Software Engineering at Data-Curve, Northking Information, and TaiHe Technology.
-- 🎓 **Education**: Bachelor of Engineering in Computer Engineering at McGill University.
-- 🌱 **Currently learning**: Advanced Machine Learning, Computer Vision and expanding my knowledge in cloud infrastructure.
-- 📚 **Publications**: Publications on natural skin systems and performance improvements in computer vision models.
-- 💻 **Background**: comprehensive software development experience with a strong focus on AI models, data science, and backend engineering.
-- 🏆 **Honors**: 1st place at Databricks Montreal AI agent hackathon. 3rd place at Shanxi AI challenge Cup 2025, 1st Place at QUEBEC Engineering Competition 2025, 1st Place at McGill Engineering Competition 2024, Best Game Development at McHacks 2024, 1st place at RoboHack Mcgill 2023, and 2nd place at the 123LoadBoard Coding Challenge 2023.
-- 📝 **Projects**: 
-  - **CyberSight**: A grocery navigation tool for visually impaired users, integrating AI models with speech interfaces and real-time vision processing.
-  - **Boxing Game**: A Unity-based game with real-time 3D motion detection using Mediapipe and Python APIs.
-  - **Trucking**: An optimized job assignment software for truckers featuring batch processing algorithms and real-time location tracking.
-- ⛵ **Encouragement**: I am a strong advocate for open-source collaborations and building tools that make a real-world impact.
+### **Current**
+- Growth Engineering Intern @ [Botpress](https://botpress.com)
+- B.Eng. Computer Engineering — [McGill University](https://www.mcgill.ca)
 
-Let's make this world better!
+---
+[![Skills](https://skillicons.dev/icons?i=aws,tailwind,ts,py,docker,threejs,vercel,vite)](https://skillicons.dev)
 
-📫 **Contact**:
+<a href="https://gitroll.io/profile/uuYKZ3aKRzuRzMVCsQOIaHg481M93" target="_blank">
+  <img
+    src="https://gitroll.io/api/badges/profiles/v1/uuYKZ3aKRzuRzMVCsQOIaHg481M93?theme=dracula"
+    alt="GitRoll Profile Badge"
+    width="500"
+  />
+</a>
+
+
+---
+
+### **Achievement**
+- 1st — Databricks Montreal AI Agent Hackathon ([Databricks](https://www.databricks.com))
+- 3rd — Shanxi AI Challenge Cup 2025
+- 1st — Quebec Engineering Competition 2025 ([CQI/QEC](https://cqi-qec.qc.ca))
+- 1st — McGill Engineering Competition 2024 ([MEC](https://mec.mcgilleus.ca))
+- Best Game Development — McHacks 2024 ([McHacks](https://mchacks.ca))
+- 1st — RoboHack McGill 2023 ([McGill Robotics](https://mcgillrobotics.com/robohacks-2023))
+- 2nd — 123LoadBoard Coding Challenge 2023 ([Devpost](https://mcgill-codejam-13.devpost.com/project-gallery))
+---
+
+### **Contact**:
 - Email: [bohan.wang@mail.mcgill.ca](mailto:bohan.wang@mail.mcgill.ca)
-- Portfolio: [bohan.wang](https://bohan-wang.vercel.app/)
+- Portfolio: [bohan.wang](https://bo-han.wang)
 - Instagram: [wohan_bang](https://www.instagram.com/wohan_bang)
