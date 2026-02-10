@@ -1,6 +1,19 @@
 # Hello, I'm Bohan Wang 👋
-
-![BohanDoraemon](https://github.com/user-attachments/assets/0edcb68d-90f2-44ca-9dd5-b4a69cc1d04a)
+<pre>
+      ___             ___              ___            ___            ___
+     /\  \           /\  \            /\__\          /\  \          /\__\
+    /::\  \         /::\  \          /:/  /         /::\  \        /::| | 
+   /:/\:\  \       /:/\:\  \        /:/  /         /:/\:\  \      /:|:| |
+  /::\~\:\  \     /:/  \:\  \      /:/__/  ___    /:/__\:\  \    /:/|:| |         
+ /:/\:\ \:\  \   /:/  / \:\  \    /::\  \ /\__\  /::\   \:\__\  /:/ |:| | ___  
+/:/__\:\ \:\__\ /:/__/   \:\__\  /:/\:\  /:/  / /:/\:\  /:/  / /:/ /|:| |/\__\                 
+\:\   \:\/:/  / \:\  \   /:/  / /:/ /\:\/:/  / /:/ /\:\/:/  /  \/_/ |:| /:/  /
+ \:\   \::/__/   \:\  \ /:/  /  \/_/  \::/  /  \/_/  \::/  /        |:|/:/  /
+  \:\  |:|__|     \:\  /:/  /         /:/  /         /:/  /         |:/:/  /
+   \:\/:/  /       \:\/:/  /         /:/  /         /:/  /          |::/  / 
+    \::/  /         \::/  /         /:/  /         /:/  /           |:/  /
+     \/__/           \/__/          \/__/          \/__/            \/__/
+</pre>
 
 I build elegant and professional software solutions ranging from full-stack applications to AI-driven projects and infrastructure.
 🚀 I have a passion for creating accessible and user-centric applications while continuously learning and contributing to the tech community.
