@@ -18,8 +18,8 @@
 ---
 
 ### **Current**
-- Growth Engineering Intern @ [Botpress](https://botpress.com)
-- Product Engineering Intern @ [Botpress](https://botpress.com)
+- Product Engineering @ [Botpress](https://botpress.com)
+- @ [Botpress](https://botpress.com)
 - B.Eng. Computer Engineering — [McGill University](https://www.mcgill.ca)
 
 ---
