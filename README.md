@@ -19,7 +19,6 @@
 
 ### **Current**
 - Product Engineering @ [Botpress](https://botpress.com)
-- @ [Botpress](https://botpress.com)
 - B.Eng. Computer Engineering — [McGill University](https://www.mcgill.ca)
 
 ---
