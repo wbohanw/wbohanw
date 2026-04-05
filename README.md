@@ -36,6 +36,9 @@
 ---
 
 ### **Achievement**
+- 2nd - [Bagel Hack](https://devpost.com/software/revly?ref_content=existing_user_added_to_software_team&ref_feature=portfolio&ref_medium=email&utm_campaign=software&utm_content=added_to_software_team&utm_medium=email&utm_source=transactional#app-team) II @ Montreal
+- Honorable Award - [CareXR Hackathon](https://devpost.com/software/dreamopia?ref_content=user-portfolio&ref_feature=in_progress)
+- 3rd Place - 15th Handan Youth Innovation & Entrepreneurship Competition
 - 1st — Databricks Montreal AI Agent Hackathon ([Databricks](https://www.databricks.com))
 - 3rd — Shanxi AI Challenge Cup 2025
 - 1st — Quebec Engineering Competition 2025 ([CQI/QEC](https://cqi-qec.qc.ca))
