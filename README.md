@@ -22,7 +22,7 @@
 - B.Eng. Computer Engineering — [McGill University](https://www.mcgill.ca)
 
 ---
-[![Skills](https://skillicons.dev/icons?i=aws,tailwind,ts,py,docker,threejs,vercel,vite)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=aws,vite,tailwind,ts,py,docker)](https://skillicons.dev)
 
 <a href="https://gitroll.io/profile/uuYKZ3aKRzuRzMVCsQOIaHg481M93" target="_blank">
   <img
