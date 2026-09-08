@@ -19,6 +19,7 @@
 
 ### **Current**
 - B.Eng. Computer Engineering — [McGill University](https://www.mcgill.ca)
+- Building [Alex Bot](https://github.com/wbohanw/Alex), a GitHub-native autonomous coding agent — [Live dashboard](https://alex.bo-han.wang)
 
 ---
 [![Skills](https://skillicons.dev/icons?i=aws,vite,tailwind,ts,py,docker)](https://skillicons.dev)
